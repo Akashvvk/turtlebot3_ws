@@ -1,0 +1,3 @@
+[console_scripts]
+move_forward = move_forward.move_forward:main
+

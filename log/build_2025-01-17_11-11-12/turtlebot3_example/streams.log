@@ -1,0 +1,31 @@
+[0.834s] Invoking command in '/home/akash/turtlebot3_ws/build/turtlebot3_example': AMENT_PREFIX_PATH=/home/akash/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/akash/turtlebot3_ws/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/akash/turtlebot3_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/akash/turtlebot3_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akash/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/akash/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/akash/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data
+[1.149s] running develop
+[1.149s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.150s]   warnings.warn(
+[1.226s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[1.226s]   warnings.warn(
+[1.356s] running egg_info
+[1.356s] creating turtlebot3_example.egg-info
+[1.356s] writing turtlebot3_example.egg-info/PKG-INFO
+[1.356s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[1.357s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[1.357s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[1.357s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[1.357s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.359s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.359s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.408s] running build_ext
+[1.408s] Creating /home/akash/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[1.409s] Installing turtlebot3_obstacle_detection script to /home/akash/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] Installing turtlebot3_patrol_client script to /home/akash/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] Installing turtlebot3_patrol_server script to /home/akash/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] Installing turtlebot3_position_control script to /home/akash/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] 
+[1.410s] Installed /home/akash/turtlebot3_ws/build/turtlebot3_example
+[1.410s] running symlink_data
+[1.410s] creating /home/akash/turtlebot3_ws/install/turtlebot3_example/share/ament_index
+[1.410s] creating /home/akash/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index
+[1.411s] creating /home/akash/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.411s] symbolically linking /home/akash/turtlebot3_ws/build/turtlebot3_example/resource/turtlebot3_example -> /home/akash/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.411s] symbolically linking /home/akash/turtlebot3_ws/build/turtlebot3_example/package.xml -> /home/akash/turtlebot3_ws/install/turtlebot3_example/share/turtlebot3_example
+[1.447s] Invoked command in '/home/akash/turtlebot3_ws/build/turtlebot3_example' returned '0': AMENT_PREFIX_PATH=/home/akash/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/akash/turtlebot3_ws/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/akash/turtlebot3_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/akash/turtlebot3_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akash/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/akash/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/akash/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data

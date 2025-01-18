@@ -1,0 +1,21 @@
+[0.903s] Invoking command in '/home/akash/turtlebot3_ws/src/move_forward': PYTHONPATH=/home/akash/turtlebot3_ws/build/move_forward/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akash/turtlebot3_ws/install/move_forward/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/move_forward build --build-base /home/akash/turtlebot3_ws/build/move_forward/build install --record /home/akash/turtlebot3_ws/build/move_forward/install.log --single-version-externally-managed install_data
+[1.096s] running egg_info
+[1.097s] writing ../../build/move_forward/move_forward.egg-info/PKG-INFO
+[1.097s] writing dependency_links to ../../build/move_forward/move_forward.egg-info/dependency_links.txt
+[1.097s] writing entry points to ../../build/move_forward/move_forward.egg-info/entry_points.txt
+[1.097s] writing requirements to ../../build/move_forward/move_forward.egg-info/requires.txt
+[1.097s] writing top-level names to ../../build/move_forward/move_forward.egg-info/top_level.txt
+[1.098s] reading manifest file '../../build/move_forward/move_forward.egg-info/SOURCES.txt'
+[1.099s] writing manifest file '../../build/move_forward/move_forward.egg-info/SOURCES.txt'
+[1.099s] running build
+[1.099s] running build_py
+[1.099s] running install
+[1.099s] running install_lib
+[1.100s] running install_data
+[1.100s] running install_egg_info
+[1.102s] removing '/home/akash/turtlebot3_ws/install/move_forward/lib/python3.10/site-packages/move_forward-0.0.0-py3.10.egg-info' (and everything under it)
+[1.102s] Copying ../../build/move_forward/move_forward.egg-info to /home/akash/turtlebot3_ws/install/move_forward/lib/python3.10/site-packages/move_forward-0.0.0-py3.10.egg-info
+[1.102s] running install_scripts
+[1.116s] Installing move_forward script to /home/akash/turtlebot3_ws/install/move_forward/lib/move_forward
+[1.117s] writing list of installed files to '/home/akash/turtlebot3_ws/build/move_forward/install.log'
+[1.202s] Invoked command in '/home/akash/turtlebot3_ws/src/move_forward' returned '0': PYTHONPATH=/home/akash/turtlebot3_ws/build/move_forward/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akash/turtlebot3_ws/install/move_forward/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/move_forward build --build-base /home/akash/turtlebot3_ws/build/move_forward/build install --record /home/akash/turtlebot3_ws/build/move_forward/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+circular_motion = turtlebot_manipulator_control.circular_motion:main
+

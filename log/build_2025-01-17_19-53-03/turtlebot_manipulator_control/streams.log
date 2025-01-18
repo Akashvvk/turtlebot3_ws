@@ -1,0 +1,24 @@
+[1.132s] Invoking command in '/home/akash/turtlebot3_ws/src/turtlebot_manipulator_control': PYTHONPATH=/home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot_manipulator_control build --build-base /home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/build install --record /home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/install.log --single-version-externally-managed install_data
+[1.332s] running egg_info
+[1.334s] writing ../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/PKG-INFO
+[1.334s] writing dependency_links to ../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/dependency_links.txt
+[1.334s] writing entry points to ../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/entry_points.txt
+[1.334s] writing requirements to ../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/requires.txt
+[1.334s] writing top-level names to ../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/top_level.txt
+[1.335s] reading manifest file '../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/SOURCES.txt'
+[1.336s] writing manifest file '../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info/SOURCES.txt'
+[1.336s] running build
+[1.336s] running build_py
+[1.336s] copying turtlebot_manipulator_control/circular_motion.py -> /home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/build/lib/turtlebot_manipulator_control
+[1.336s] running install
+[1.336s] running install_lib
+[1.337s] copying /home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/build/lib/turtlebot_manipulator_control/circular_motion.py -> /home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/python3.10/site-packages/turtlebot_manipulator_control
+[1.337s] byte-compiling /home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/python3.10/site-packages/turtlebot_manipulator_control/circular_motion.py to circular_motion.cpython-310.pyc
+[1.338s] running install_data
+[1.338s] running install_egg_info
+[1.339s] removing '/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/python3.10/site-packages/turtlebot_manipulator_control-0.0.0-py3.10.egg-info' (and everything under it)
+[1.339s] Copying ../../build/turtlebot_manipulator_control/turtlebot_manipulator_control.egg-info to /home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/python3.10/site-packages/turtlebot_manipulator_control-0.0.0-py3.10.egg-info
+[1.340s] running install_scripts
+[1.355s] Installing circular_motion script to /home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/turtlebot_manipulator_control
+[1.355s] writing list of installed files to '/home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/install.log'
+[1.502s] Invoked command in '/home/akash/turtlebot3_ws/src/turtlebot_manipulator_control' returned '0': PYTHONPATH=/home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot_manipulator_control build --build-base /home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/build install --record /home/akash/turtlebot3_ws/build/turtlebot_manipulator_control/install.log --single-version-externally-managed install_data

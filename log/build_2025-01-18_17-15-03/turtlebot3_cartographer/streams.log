@@ -1,0 +1,25 @@
+[0.062s] Invoking command in '/home/akash/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control:/home/akash/turtlebot3_ws/install/turtlebot3_teleop:/home/akash/turtlebot3_ws/install/turtlebot3_example:/home/akash/turtlebot3_ws/install/move_forward:/opt/ros/humble /usr/bin/cmake --build /home/akash/turtlebot3_ws/build/turtlebot3_cartographer -- -j12 -l12
+[0.910s] Invoked command in '/home/akash/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control:/home/akash/turtlebot3_ws/install/turtlebot3_teleop:/home/akash/turtlebot3_ws/install/turtlebot3_example:/home/akash/turtlebot3_ws/install/move_forward:/opt/ros/humble /usr/bin/cmake --build /home/akash/turtlebot3_ws/build/turtlebot3_cartographer -- -j12 -l12
+[0.967s] Invoking command in '/home/akash/turtlebot3_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control:/home/akash/turtlebot3_ws/install/turtlebot3_teleop:/home/akash/turtlebot3_ws/install/turtlebot3_example:/home/akash/turtlebot3_ws/install/move_forward:/opt/ros/humble /usr/bin/cmake --install /home/akash/turtlebot3_ws/build/turtlebot3_cartographer
+[1.002s] -- Install configuration: ""
+[1.002s] -- Execute custom install script
+[1.002s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.003s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.003s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.003s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.004s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.004s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.004s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.005s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.005s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.005s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.009s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.009s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.009s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.009s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.010s] -- Symlinking: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.020s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.020s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.020s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.020s] -- Up-to-date symlink: /home/akash/turtlebot3_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.052s] Invoked command in '/home/akash/turtlebot3_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/akash/turtlebot3_ws/install/turtlebot_manipulator_control:/home/akash/turtlebot3_ws/install/turtlebot3_teleop:/home/akash/turtlebot3_ws/install/turtlebot3_example:/home/akash/turtlebot3_ws/install/move_forward:/opt/ros/humble /usr/bin/cmake --install /home/akash/turtlebot3_ws/build/turtlebot3_cartographer
